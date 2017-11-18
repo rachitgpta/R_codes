@@ -3,3 +3,4 @@ b <-3
 print(a)
 c<- c('a','c','dd')
 print(b)
+print(c)
