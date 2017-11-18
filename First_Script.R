@@ -4,3 +4,4 @@ b<- b+34
 print(a)
 c<- c('a','c','dd')
 print(b)
+print(c)
